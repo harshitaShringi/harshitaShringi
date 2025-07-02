@@ -1,5 +1,5 @@
-<h1 align="center">Hi,Harshita Shringi this side,</h1>
-<img src=https://images.pexels.com/photos/2653362/pexels-photo-2653362.jpeg height="400",width="1000">
+<h1 align="center">Hi,Harshita Shringi this side !</h1>
+<img align="centre" src=https://images.pexels.com/photos/2653362/pexels-photo-2653362.jpeg height="400",width="1000">
 <h3 align="center">currently pursuing my Btech in the field of Computer Science and Engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitashringi&label=Profile%20views&color=0e75b6&style=flat" alt="harshitashringi" /> </p>
